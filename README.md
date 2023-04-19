@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.instagram.com/ziiyodullayevv/">
-  <img align="left" alt="Akobir Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/telegram.png" />
+  <img align="left" alt="Akobir Instagram" width="22px" src=:"https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger-thumbnail.png" />
 </a>
 
 <br />
