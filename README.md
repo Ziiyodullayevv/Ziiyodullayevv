@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Ziyodullayev Akobir.
+Hi! My name is Akobir Ziyodullayev. Thank You for taking the time to view my GitHub Profile 
 
 <!--
 **Ziiyodullayevv/Ziiyodullayevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
