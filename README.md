@@ -3,7 +3,7 @@
 Hi! My name is Akobir Ziyodullayev. Thank You for taking the time to view my GitHub Profile 
 
 
-<img right="0" bottom="0" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img right="0" bottom="0" position="rilative" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <!--
 **Ziiyodullayevv/Ziiyodullayevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
