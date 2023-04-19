@@ -8,7 +8,9 @@
   <img align="left" alt="Akobir LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<a href="https://www.instagram.com/ziiyodullayevv/">
+  <img align="left" alt="Akobir Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/telegram.png" />
+</a>
 
 <br />
 
