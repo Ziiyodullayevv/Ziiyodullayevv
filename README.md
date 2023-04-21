@@ -1,4 +1,4 @@
-### <h2>Hi, there <img src="https://media0.giphy.com/media/l0K496Wj8dOHIJYgU/giphy.gif?cid=ecf05e47ddthceu0vfv4uwpjdqw038m7hvrxdvuhluafmdz7&rid=giphy.gif&ct=g" width="70px"></h2> 
+### <h2>Hi, there <img src="https://media0.giphy.com/media/l0K496Wj8dOHIJYgU/giphy.gif?cid=ecf05e47ddthceu0vfv4uwpjdqw038m7hvrxdvuhluafmdz7&rid=giphy.gif&ct=g" width="120px"></h2> 
 
 <a href="https://www.instagram.com/ziiyodullayevv/">
   <img align="left" alt="Akobir Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
