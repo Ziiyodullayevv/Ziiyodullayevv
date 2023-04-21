@@ -38,5 +38,5 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="auto" />
 
