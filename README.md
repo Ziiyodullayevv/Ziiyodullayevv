@@ -36,5 +36,8 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
+
+https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg
+  <img align="right" alt="GIF" src="" width="500" height="320" />
+
