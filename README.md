@@ -1,10 +1,5 @@
 ### <h2>Hi, there!...</h2> 
 
-<h1wrtiyutreqwertuutyrewertyuiertyuiertyuiertyuioiuytsdfjsd;lfksjdflksdjfa;sldkfjas;dlkfjasd;lfkjsd;f
-DKFJ;SLDKFJAS;DLKFJASD;LKFJSAD;LKFJSAD;FLKASJDF;LKASJDF;LKSADJF;LKSADJF;ASLKDJFSADKL;FJSA;LDKFJDS;LKFJ;ASDLKFdlfj;sdlkfsj;d
-djsd;lkfj;sdlkfjasd;lkfjsd;fksjdf;lsdkjf;sadklfjs;dlfkjs;dkfjs;dfkljsd;fkljasd;flkjd;lfkjsd;flkadsjf;askkdjf;asdklfjas;dlkjfas;dkf
-ldfkjsa;dlfkjsa;dlkfjsd;lfkjsadf;lksdjf;alkdfjsa;ldkfjas;dlkjl;fdksjd;flsakdjf;aslkdjf;sadklfjas;dlkfjads;lkfjasd;fkjadsf;ksdjf;as
-
 <a href="https://www.instagram.com/ziiyodullayevv/">
   <img align="left" alt="Akobir Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
