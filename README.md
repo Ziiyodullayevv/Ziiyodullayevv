@@ -1,17 +1,4 @@
 ### <h2>Hi, there!...</h2> 
-<h3>i liki javascript, react, esmascrpt</h3>
-<h4>Akobir Ziyodullayev Javascript developer </h4>
-<h4>Akobir Ziyodullayev Javascript developer </h4>
-<h4>Akobir Ziyodullayev Javascript developer </h4>
-<h4>Akobir Ziyodullayev Javascript developer </h4>
-<h4>Akobir Ziyodullayev Javascript developer </h4>
-<h4>Akobir Ziyodullayev Javascript developer </h4>
-<h4>Akobir Ziyodullayev Javascript developer </h4>
-<h4>Akobir Ziyodullayev Javascript developer </h4>
-
-<h4>Akobir Ziyodullayev Javascript developer </h4>
-
-
 
 <a href="https://www.instagram.com/ziiyodullayevv/">
   <img align="left" alt="Akobir Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
