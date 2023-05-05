@@ -1,9 +1,5 @@
 ### <h2>Hi, there!</h2> 
-fljksd;flkdsj;faskldj
-kjd;flkjasd;fklsadjf;sdkfj
-ldkfjsd;lfkasjd;fklsajdf;klddf;lskjdf;lsadjkfdlkj
 
-dll;fkjsad;flksjdf;kjj;
 <a href="https://www.instagram.com/ziiyodullayevv/">
   <img align="left" alt="Akobir Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
