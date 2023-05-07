@@ -1,10 +1,4 @@
 ### <h2>Hi, there!</h2> 
-headerkl;jlkj;lkj;lkj
-dl;fjsdl;kfsd;lfkjsd;fkj
-d;lfksadjf;lsdkfjas;lkfjds
-dlkfjas;dlkfjs;dkfjsa;dlkfjs;d;flksadjf;sadlkfjas;ldkfja;
-lfksjdf;slkdjfs;ldkfjsd
-l;kfsjdf;laksdjfs;lkdfj
 <a href="https://www.instagram.com/ziiyodullayevv/">
   <img align="left" alt="Akobir Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
