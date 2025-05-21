@@ -1,40 +1,42 @@
-### <h2>Hi, there!</h2>
-<a href="https://www.instagram.com/ziiyodullayevv/">
-  <img align="left" alt="Akobir Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<h2>Hi there 👋, I'm Akobir Ziyodullayev</h2>
 
-</a>
-<a href="https://www.linkedin.com/in/ziiyodullayevv/">
-  <img align="left" alt="Akobir LinkedIN" width="22px" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rdp6fcqdcvqqcqn3jz72" />
-</a>
+[![Instagram](https://img.shields.io/badge/-@ziiyodullayevv-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ziiyodullayevv/)
+[![LinkedIn](https://img.shields.io/badge/-ziiyodullayevv-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziiyodullayevv/)
+[![Telegram](https://img.shields.io/badge/-@ziiyodullayevv-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/akobirjs)
 
-<a href="https://www.instagram.com/ziiyodullayevv/">
-  <img align="left" alt="Akobir Instagram" width="22px" src="https://w7.pngwing.com/pngs/348/389/png-transparent-white-arrowhead-icon-computer-icons-telegram-telegram-free-miscellaneous-blue-angle-thumbnail.png" />
-</a>
+---
 
-<br />
-<br />
+💻 I’m a self-taught **Frontend Developer** and **Freelance Software Engineer** from **Uzbekistan**.  
+✨ I love turning ideas into real, elegant, and user-friendly interfaces.  
+🌍 I'm passionate about open-source and love contributing or learning from others.
 
-Hi, I'm [Akobir Ziyodullayev](https://t.me/akobirjs), a passionate self-taught frontend and a freelance software engineer from Uzbekistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+- 🚀 I focus on **experience**, **architecture**, and **clean code**
+- 💼 Looking for freelance work? Reach me via [email](mailto:akobirjsdev@gmail.com)
+- 💬 Ask me anything, I'm happy to help!
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. Codeng my live!!!
+---
 
+### 🛠️ Languages and Tools:
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:akobirjsdev@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**languages and tools:**  
-<br/>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVB4twv74Kv-OlgnOCa8NuMOP2DvpeK3kQcw&usqp=CAU"></code>
-<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"></code>
-<code><img height="20" src="https://wpbeaches.com/wp-content/uploads/2021/05/sass-macos.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+---
 
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" alt="Coding" />
+</p>
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="auto" />
+---
 
+> 💡 *"Coding is not just my career, it's how I live. Sharing, creating, learning – codeng my live!"*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
+</p>
