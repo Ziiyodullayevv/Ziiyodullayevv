@@ -1,4 +1,4 @@
-### <h2>Hi, there!</h2>ghfghfg
+### <h2>Hi, there!</h2>
 <a href="https://www.instagram.com/ziiyodullayevv/">
   <img align="left" alt="Akobir Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm [Akobir Ziyodullayev](https://ziiyodullayev.me/), a passionate self-taught frontend and a freelance software engineer from Uzbekistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Akobir Ziyodullayev](https://akobirjs.me/), a passionate self-taught frontend and a freelance software engineer from Uzbekistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. Codeng my live!!!
 
