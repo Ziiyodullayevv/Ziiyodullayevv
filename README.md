@@ -5,7 +5,7 @@
 
 </a>
 <a href="https://www.linkedin.com/in/ziiyodullayevv/">
-  <img align="left" alt="Akobir LinkedIN" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Flinkedin&psig=AOvVaw09z2TVuOxbs4AsPovBFJys&ust=1747893370788000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiC567ws40DFQAAAAAdAAAAABAE" alt='linkedin icon" />
+  <img align="left" alt="Akobir LinkedIN" width="22px" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rdp6fcqdcvqqcqn3jz72" />
 </a>
 
 <a href="https://www.instagram.com/ziiyodullayevv/">
