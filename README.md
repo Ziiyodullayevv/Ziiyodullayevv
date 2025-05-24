@@ -29,9 +29,6 @@
 
 ---
 
-
----
-
 > 💡 *"Coding is not just my career, it's how I live. Sharing, creating, learning – codeng my live!"*
 
 <p align="center">
