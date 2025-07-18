@@ -14,27 +14,29 @@
 
 ---
 
-🚀 **Senior Frontend Engineer** | 🎨 **UI/UX Enthusiast** | 🌐 **Web Performance Optimizer**  
-📍 Based in **Uzbekistan** | 🌱 Passionate about **Clean Code**, **DX**, and **Open Source**
+🚀 **Frontend Engineer** | 🎨 **Crafting Interfaces with Purpose** | 🌐 **Optimizing for Real-World UX**  
+📍 From **Uzbekistan** | 💡 Driven by **Clarity**, **Performance**, and **Scalability**
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a self-taught Frontend Developer with strong skills in creating pixel-perfect, high-performance, scalable, and accessible web apps. I write code that's not just working — but also **maintainable**, **readable**, and **future-proof**.
+I design and build modern web applications that are fast, accessible, and reliable. With a strong eye for detail and a love for problem-solving, I turn complex requirements into elegant, reusable, and user-centric solutions.
 
-- 🧠 I architect **component-based systems** using React and modern frontend tooling.
-- 🧰 I care about developer experience (DX), testing, and performance optimization.
-- 🧪 Writing tests with tools like Jest, React Testing Library, and Playwright.
-- 🔍 Accessibility, SEO, responsiveness, and animation — I pay attention to the details.
-- 🛠️ I love contributing to **open-source** and mentoring junior devs.
-- 📬 Email me: [akobirjsdev@gmail.com](mailto:akobirjsdev@gmail.com)
+- 🔧 I build UI systems that scale — from design systems to reusable component libraries.
+- ⚙️ Obsessed with performance, usability, and developer experience (DX).
+- 🧪 Comfortable with writing and maintaining tests (unit, integration, and e2e).
+- 🌐 Experienced in SEO-friendly SPA/SSR architectures with React & Next.js.
+- 🎯 I focus on clarity, clean code, and long-term maintainability.
+- 🤝 Active in the dev community and open to collaborations.
+
+📬 Reach me: [akobirjsdev@gmail.com](mailto:akobirjsdev@gmail.com)
 
 ---
 
-### ⚙️ Tech Stack
+### 🧰 My Stack
 
-#### Languages & Markup
+#### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -53,10 +55,11 @@ I'm a self-taught Frontend Developer with strong skills in creating pixel-perfec
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ziiyodullayevv&show_icons=true&theme=radical" />
@@ -64,8 +67,7 @@ I'm a self-taught Frontend Developer with strong skills in creating pixel-perfec
 
 ---
 
-> 🧠 *"Good frontend is not just pixels. It’s empathy, performance, accessibility, and code that speaks."*  
-> — Akobir Ziyodullayev
+> *“I don’t just write code — I craft interfaces, enhance experiences, and engineer solutions that scale.”*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
