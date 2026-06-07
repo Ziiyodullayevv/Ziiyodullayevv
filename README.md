@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Akobir Ziyodullayev</h1>
+<h1 align="center">Hi there 👋, I'm Adiba Ziyodullayeva</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/ziiyodullayevv/">
